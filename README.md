@@ -7,3 +7,5 @@
 - 👯 I’m looking to collaborate on anything in JS, Python, or thats a Minecraft Mod
 - ⚡ Fun fact: 🐒
 
+
+![based github stats](https://github-readme-stats.vercel.app/api?username=humboldt123&hide=["stars"])
