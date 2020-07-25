@@ -8,4 +8,6 @@
 - ⚡ Fun fact: 🐒
 
 
-![based github stats](https://github-readme-stats.vercel.app/api?username=humboldt123&hide=["stars"])
+![based github stats](https://github-readme-stats.vercel.app/api?username=humboldt123&show_icons=true&theme=dark)
+
+![more based github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=humboldt123&theme=dark)
