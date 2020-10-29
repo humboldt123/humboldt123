@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a nothing but I'd love to join any project
-- 🌱 I’m currently learning Java and Kotlin
+- 🔭 I’m currently working on a Block Based Coding language in Typescript.
+- 🌱 I’m currently learning Java, Kotlin, Rust, and Typescript
 - 📫 How to reach me: `Skrub#9999` on discord or E-Mail me at [skrub@bigrat.monster](mailto:skrub@bigrat.monster)
 - 👯 I’d love to collaborate on anything!
 - ⚡ Fun fact: 🐒
