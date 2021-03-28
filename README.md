@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Java, Kotlin, Rust, and Typescript
 - 📫 How to reach me: `Skrub#7505` on discord or E-Mail me at [skrub@bigrat.monster](mailto:skrub@bigrat.monster)
 - 👯 I’d love to collaborate on anything!
-- ⚡ Fun fact: [🐒](https://humboldt123.me) <-
+- ⚡ Fun fact: [🐒](https://skrub.dev)
