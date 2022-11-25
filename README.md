@@ -1,2 +1,5 @@
-### Hi there 👋
-If for some reason you wish to contact me, the easiest way to do so is to email me at [me@skrub.dev](mailto:me@skrub.dev)
+**Hi ‼**
+- 😊 I'm `Vishnu`
+- ✨`he/they`
+- 📕 I'm currently learning `Rust`
+- 📬 If you want to say hi (or work together), you can contact me at `vishnu[AT]vivime[DOT].info`
