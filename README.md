@@ -15,4 +15,4 @@
 
 𓆝 𓆟 𓆞
 
-<sub>if you're around philadelphia, please stop by [coffee & code](https://phillycodes.rsvp/) (1PM - 4PM every saturday) ... be there or be square</sub>
+<sub>if you're around philadelphia, consider stopping by [coffee & code](https://phillycodes.rsvp/) (1PM - 4PM every saturday) ... be there or be square</sub>
