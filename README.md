@@ -10,7 +10,7 @@
 <br>
 **contact**: *vishnu [AT] vivime [DOT] info*
 <br>
-**occupation**: incoming ml intern @ [arka](https://arka.org/)
+**occupation**: machine learning @ [arka](https://arka.org/)
 
 
 𓆝 𓆟 𓆞
